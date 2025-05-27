@@ -183,3 +183,27 @@
       "type": "rectangle",
       "x": 120,
       "y": 230,
+      "width": 220,
+      "height": 240,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "#f9f9f9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "seed": 8,
+      "version": 1,
+      "versionNonce": 890123456,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
